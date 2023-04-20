@@ -6,4 +6,4 @@ the simulation of a website with a chatbot with login done with Spring Boot, Spr
 <br>
 <img src="https://i.imgur.com/smh5KS5.png" width="468,75" height="329,25"/>
 <br>
-<img src="https://i.imgur.com/ddxcNy3.gif" width="1440" height="699"/>
+<img src="https://i.imgur.com/TPYcOFT.png" width="1440" height="699"/>
