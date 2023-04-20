@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Javabot:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Javabot</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Javabot-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Javabot:war exploded" />
+    </root>
+  </artifact>
+</component>
